@@ -2,6 +2,130 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.10.0"></a>
+# [1.10.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.9.0...v1.10.0) (2017-08-10)
+
+
+### Features
+
+* bump [@angular](https://github.com/angular)/cli to 1.3.0 and use --build-optimizer (smaller bundles) ([f0ec1c0](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/f0ec1c0))
+
+
+
+<a name="1.9.0"></a>
+# [1.9.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.8.0...v1.9.0) (2017-07-25)
+
+
+### Bug Fixes
+
+* test dependency ([afa97d6](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/afa97d6))
+
+
+### Features
+
+* add open graph metadata ([0840cef](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/0840cef))
+
+
+
+<a name="1.8.0"></a>
+# [1.8.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.7.1...v1.8.0) (2017-07-25)
+
+
+### Features
+
+* sub navigation animations ([be7a040](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/be7a040))
+
+
+
+<a name="1.7.1"></a>
+## [1.7.1](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.7.0...v1.7.1) (2017-07-24)
+
+
+### Bug Fixes
+
+* broken build dependencies ([f4ec9f4](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/f4ec9f4))
+* remove unused imports ([c49f75d](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/c49f75d))
+
+
+
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.6.0...v1.7.0) (2017-07-24)
+
+
+### Bug Fixes
+
+* responsive layout ([27db236](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/27db236))
+
+
+### Features
+
+* add route transitions ([df94736](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/df94736))
+* use route transitions ([224c44d](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/224c44d))
+
+
+
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.5.0...v1.6.0) (2017-07-22)
+
+
+### Bug Fixes
+
+* styling inconsistencies ([38b12ca](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/38b12ca))
+
+
+### Features
+
+* stub auth functionality ([7d3a098](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/7d3a098))
+
+
+
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.4.0...v1.5.0) (2017-07-21)
+
+
+### Features
+
+* add blog link ([3483898](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/3483898))
+
+
+
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.3.0...v1.4.0) (2017-07-21)
+
+
+### Features
+
+* theme styles scoping example, unified theme mixing naming ([ec971ae](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/ec971ae))
+
+
+
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.2.0...v1.3.0) (2017-07-21)
+
+
+### Bug Fixes
+
+* about screen responsive layout ([9be673e](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/9be673e))
+
+
+### Features
+
+* add tooltips to todo example ([e5168f3](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/e5168f3))
+* adjust theme colors ([4bc6760](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/4bc6760))
+
+
+
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.1.0...v1.2.0) (2017-07-20)
+
+
+### Features
+
+* add new features ([6054191](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/6054191))
+* update ngrx version ([ec5f6f3](https://github.com/tomastrajan/angular-ngrx-material-starter/commit/ec5f6f3))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/tomastrajan/angular-ngrx-material-starter/compare/v1.0.0...v1.1.0) (2017-07-17)
 

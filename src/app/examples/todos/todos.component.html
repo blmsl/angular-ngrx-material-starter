@@ -8,11 +8,13 @@
                       (keyup.escape)="onNewTodoClear()">
         <anms-big-input-action icon="add" color="accent"
                                (action)="onAddTodo()"
-                               [disabled]="isAddTodoDisabled">
+                               [disabled]="isAddTodoDisabled"
+                               mdTooltip="Add new todo" mdTooltipPosition="before">
         </anms-big-input-action>
         <anms-big-input-action icon="delete_forever" color="warn"
                                (action)="onRemoveDoneTodos()"
-                               [disabled]="isRemoveDoneTodosDisabled">
+                               [disabled]="isRemoveDoneTodosDisabled"
+                               mdTooltip="Remove done todos" mdTooltipPosition="after">
         </anms-big-input-action>
       </anms-big-input>
     </div>
@@ -47,7 +49,7 @@
           </md-chip>
         </md-chip-list>
       </h2>
-      <md-card *ngFor="let todo of filteredTodos" class="todo">
+      <md-card *ngFor="let todo of filteredTodos" class="todo" [ngClass]="animateOnRouteEnter">
         <md-checkbox class="todo-done" [checked]="todo.done" (change)="onToggleTodo(todo)"></md-checkbox>
         <span class="todo-label" (click)="onToggleTodo(todo)">{{todo.name}}</span>
       </md-card>
